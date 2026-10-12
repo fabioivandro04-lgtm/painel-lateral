@@ -1,0 +1,6 @@
+{
+  "name": "painel-lateral",
+  "version": "0.1.0",
+  "description": "Painel lateral com abas: tarefas, tokens e custo, log de ferramentas, arquivos alterados e notas.",
+  "types": "./types/index.d.ts"
+}

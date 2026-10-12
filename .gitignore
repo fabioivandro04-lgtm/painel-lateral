@@ -1,0 +1,3 @@
+# tipos gerados pelo motor do Claude Code em cada máquina
+.claude-plugin/types/
+node_modules/

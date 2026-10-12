@@ -1,0 +1,5 @@
+{
+  "name": "fabio-mods",
+  "owner": { "name": "Fabio" },
+  "plugins": [{ "name": "painel-lateral", "source": "./" }]
+}
