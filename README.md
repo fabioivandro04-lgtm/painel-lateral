@@ -7,7 +7,7 @@ Mod do Claude Code: painel lateral com abas Overview, Tarefas, Tokens, Log, Arqu
 Num terminal com o `claude` aberto:
 
 ```
-/plugin install painel-lateral --marketplace OWNER/painel-lateral
+/plugin install painel-lateral --marketplace fabioivandro04-lgtm/painel-lateral
 ```
 
 Responde `y` para adicionar o marketplace e escolhe o scope **user**.
